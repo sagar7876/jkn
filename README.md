@@ -1,13 +1,18 @@
-# Online-Book-Store
-Front-end Project
-
-Tasks:
-  1. Implement a home page of an online book store
-  2. Implement a login and a register page of the online book store
-  3. Implement a shopping cart page 
-
-Techniques: HTML, CSS, JAVASCRIPT
-
-Instructions:
-  This is a simple Front End project. You can open it directly with your browser (start from index.html). Or you can deploy it on your server(such as Tomcat), and access it by URL.By clicking on login, register  and shopping cart button, you can jump to the corresponding pages.
-  
+                        List Price��$25.00<br />
+                        Price Online��$20.00 </dd>
+						<dt><img src="images/dd_history_1.jpg" alt="history"/></dt>
+                    <dd><font class="book_title">SAPIENS: A BRIEF HISTORY OF HUMANKIND</font><br />
+                        by Yuval Noah Harari <br />
+                        <font class="book_publish">May 10, 2016</font><br />
+                        List Price��$23.00<br />
+                        Price Online��$15.00 </dd>
+                    <dt><img src="images/dd_history_2.jpg" alt="history"/></dt>
+                    <dd><font class="book_title">ON TYRANNY: TWENTY LESSONS FROM THE TWENTIETH CENTURY</font><br />
+                        byTimothy Snyder <br />
+                        <font class="book_publish">February 28, 2017</font><br />
+                        List Price��$11.00<br />
+                        Price Online��$8.00 </dd>
+                </dl>
+            </div>
+        </div>
+        <!--MOST VIEWED-->
